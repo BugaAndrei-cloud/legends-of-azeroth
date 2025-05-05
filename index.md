@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Legends of Azeroth – Reborn</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0f0f1a;
+      color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #1a1a2e;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5em;
+      color: #ffcc00;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #ffcc00;
+      margin-top: 40px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    a {
+      color: #66ccff;
+    }
+    footer {
+      background: #1a1a2e;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Legends of Azeroth – Reborn</h1>
+  <p>Server privat World of Warcraft 3.3.5a | Proiect ambițios în dezvoltare</p>
+</header>
+
+<section>
+  <h2>🔥 Viziunea noastră</h2>
+  <p>Un server WoW care îmbină stabilitatea Blizzlike cu elemente custom inovatoare. Sistem de transmogs, PvP echilibrat, evenimente unice și un staff dedicat comunității.</p>
+
+  <h2>✅ Ce avem deja</h2>
+  <ul>
+    <li>✔️ Fisierele serverului (bazat pe AzerothCore)</li>
+    <li>✔️ Experiență în configurare, compilare și management</li>
+    <li>✔️ Plan clar de lansare și roadmap</li>
+  </ul>
+
+  <h2>👥 Căutăm parteneri</h2>
+  <p><strong>Dezvoltatori:</strong></p>
+  <ul>
+    <li>1x C++ Dev – spell-uri, NPC-uri, evenimente</li>
+    <li>1x SQL Dev – scripting, iteme, raiduri</li>
+    <li>1x Web Dev – site, CMS, vot/donate panel</li>
+  </ul>
+  <p><strong>Investitori:</strong> pentru costuri VPS, domeniu și promovare (15–25€/lună)</p>
+
+  <h2>🎯 Obiective</h2>
+  <ul>
+    <li>Lansare BETA cu 30–50 jucători</li>
+    <li>100+ jucători în 90 de zile</li>
+    <li>Monetizare etică: transmogs, VIP, cosmetic shop</li>
+  </ul>
+
+  <h2>📈 Beneficii pentru parteneri</h2>
+  <ul>
+    <li>Poziție oficială în staff</li>
+    <li>Acces direct la GitHub și management</li>
+    <li>Participare la decizii</li>
+    <li>Împărțirea veniturilor în funcție de implicare</li>
+  </ul>
+
+  <h2>📬 Contact</h2>
+  <p>
+    Discord: <a href="#">[Adaugă link Discord]</a><br>
+    Email: <a href="mailto:legendswow.project@gmail.com">legendswow.project@gmail.com</a><br>
+    GitHub: <a href="#">[Link GitHub]</a>
+  </p>
+
+  <h2>🛠️ Status actual</h2>
+  <ul>
+    <li>[✔️] Server local configurat</li>
+    <li>[✔️] Teste funcționale</li>
+    <li>[ ] Instalare VPS</li>
+    <li>[ ] Site & CMS</li>
+    <li>[ ] Recrutare Staff</li>
+    <li>[ ] BETA Testing</li>
+  </ul>
+</section>
+
+<footer>
+  &copy; 2025 Legends of Azeroth – Reborn. Toate drepturile rezervate.
+</footer>
+
+</body>
+</html>
